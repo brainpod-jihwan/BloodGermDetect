@@ -1,7 +1,7 @@
 # Disease-Assoicated Microbiome base Blood Screening in python (DAMBSpy)
 ![linux-64](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-[![Python 3.7](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-370/)
-![snakemake](https://img.shields.io/badge/snakemake-7.15.2-green.svg)
+[![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/downloads/release/python-3100/)
+![snakemake](https://img.shields.io/badge/snakemake-7.32.4-green.svg)
 [![Documentation Status](https://readthedocs.org/projects/abstar/badge/?version=latest)](https://abstar.readthedocs.io/en/latest/?badge=latest)
 ![](https://img.shields.io/badge/license-MIT-blue.svg)
 
