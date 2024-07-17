@@ -1,0 +1,16 @@
+name: test_snakemake02
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.7
+  - samtools
+  - kraken2
+  - bedtools
+  - bwa
+  - build-essential
+  - pip
+  - pip:
+      - PuLP==2.3.0
+      - snakemake==7.15.2

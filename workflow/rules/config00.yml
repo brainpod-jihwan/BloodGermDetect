@@ -1,0 +1,6 @@
+raw_dir: "mnt/c/rawdata"
+output_dir: "mnt/c/output"
+threads: 4
+samples: ["SRR1456084"]
+human_genome: "mnt/c/genome/human_genome.fa"
+bacteria_genome: "mnt/c/genome/kraken_db"
