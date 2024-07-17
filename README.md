@@ -1,4 +1,6 @@
 # BloodGermDetect
+- https://img.shields.io/badge/any_text-you_like-blue
+
 Blood Microbiome-Based Disease Diagnosis Pipeline
 
 ## 프로젝트 소개
