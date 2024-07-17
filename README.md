@@ -1,9 +1,8 @@
-# BloodGermDetect
-[![DOI](https://zenodo.org/badge/139045164.svg)](https://zenodo.org/badge/latestdoi/139045164)
+# BloodGermDetect : Blood Microbiome-Based Disease Diagnosis Pipeline
+[![Python 3.8](https://img.shields.io/badge/python-≥3.8-blue.svg)](https://www.python.org/downloads/release/python-380/)
 [![Snakemake](https://img.shields.io/badge/snakemake-≥6.1.0-brightgreen.svg)](https://snakemake.github.io)
 [![GitHub actions status](https://github.com/snakemake-workflows/dna-seq-gatk-variant-calling/workflows/Tests/badge.svg?branch=main)](https://github.com/snakemake-workflows/dna-seq-gatk-variant-calling/actions?query=branch%3Amain+workflow%3ATests)
 
-Blood Microbiome-Based Disease Diagnosis Pipeline
 
 ## 프로젝트 소개
 최근 연구에 따르면, 폐혈증과 같은 미생물 감염병이 아니더라도 암과 같은 질환을 가진 환자의 혈액 내에서 존재해서는 안 되는 미생물의 DNA가 검출되고, 이것이 실제 질환과 연관이 있다는 보고가 등장했습니다. (Microbiome analyses of blood and tissues suggest cancer diagnostic approach; Poore et al. (Nature 2020)). 해당 연구에서는 혈액 내 저농도로 외래 미생물의 DNA가 검출되었으며, 이를 통해 환자의 질병을 예측하는 성과를 보였습니다.
