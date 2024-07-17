@@ -1,6 +1,7 @@
 # BloodGermDetect
-- https://img.shields.io/badge/any_text-you_like-blue
-<img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=Celery&logoColor=white">
+[![DOI](https://zenodo.org/badge/139045164.svg)](https://zenodo.org/badge/latestdoi/139045164)
+[![Snakemake](https://img.shields.io/badge/snakemake-≥6.1.0-brightgreen.svg)](https://snakemake.github.io)
+[![GitHub actions status](https://github.com/snakemake-workflows/dna-seq-gatk-variant-calling/workflows/Tests/badge.svg?branch=main)](https://github.com/snakemake-workflows/dna-seq-gatk-variant-calling/actions?query=branch%3Amain+workflow%3ATests)
 
 Blood Microbiome-Based Disease Diagnosis Pipeline
 
@@ -26,3 +27,8 @@ Blood Microbiome-Based Disease Diagnosis Pipeline
 - Zmrzljak, U. P., et al. (2021). Detection of Somatic Mutations with ddPCR from Liquid Biopsy of Colorectal Cancer Patients. Genes.
 - Ghezzi, H., et al. (2023). PUPpy: a primer design pipeline for substrain-level microbial detection and absolute quantification. doi:http://dx.doi.org/10.14288/1.0438913
 
+
+
+mamba create -n snake -c bioconda -c conda-forge snakemake pulp=2.7.0
+
+mamba install kraken2
