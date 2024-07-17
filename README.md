@@ -1,5 +1,6 @@
 # BloodGermDetect
 - https://img.shields.io/badge/any_text-you_like-blue
+<img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=Celery&logoColor=white">
 
 Blood Microbiome-Based Disease Diagnosis Pipeline
 
